@@ -1,14 +1,14 @@
 # Angular Event Registration — Demo Application for Angular JS
 
 This project is a sample application demonstrating a more fully developed realistic single page
-angular application.
+angular application. It is based on the PluralSight course Angular Fundamentals.
 
 ### Server
 
-Two Servers are provided, an ASP.NET MVC server, and a node server. If using the ASP.NET server, simply start it up in IIS. If using the node server, from the command line run "npm install" and then either "server.sh" if you are on a linux box or "server.bat" if you are on a windows box.
+We are using a node server to display this angular application so running server.sh (or server.bat if on a windows machine) with the correct permissions and node installed will allow you to view this project.
 
 ### Running the application
 
-Navigate your browser to `http://localhost:8000/` to see the app running in your browser. You may have to add the page to the url such as EventDetails.html depending on where you are at in the course. The port may be configured either in the node server or on IIS.
+Navigate your browser to `http://localhost:8000/` to see the app running in your browser. You may have to add the page to the url such as EventDetails.html depending on where you are at in the course. The configuration for the server is found in the webserver.js file. 
 
 

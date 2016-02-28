@@ -7,7 +7,7 @@ eventsApp.controller('EventController',
             date: '2/28/2016',
             time: '12:43 AM',
             location: {
-                address: 'Zebs Apartment',
+                address: 'Zeb\'s Apartment',
                 city: 'New York',
                 province: "NY"
             },

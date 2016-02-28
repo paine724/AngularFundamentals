@@ -5,7 +5,7 @@ angular application. It is based on the PluralSight course Angular Fundamentals.
 
 ### Server
 
-We are using a node server to display this angular application so running server.sh with the correct permissions and node installed will allow you to view this project.
+We are using a node server to display this angular application so running server.sh (or server.bat if on a windows machine) with the correct permissions and node installed will allow you to view this project.
 
 ### Running the application
 
